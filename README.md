@@ -1,4 +1,6 @@
+<!-- ### Hi there 👋 -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Rebertt</h1>
+
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JRebertt&color=yellow" alt="Profile views" /> </p> -->
 
@@ -12,11 +14,11 @@
 
 - 👨‍💻 More at [Instagram](https://www.instagram.com/joaorebertt/)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="left">
+<p align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -36,12 +38,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JRebertt&show_icons=true&theme=vision-friendly-dark" alt="JRebertt's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRebertt&layout=compact&theme=vision-friendly-dark" alt="JRebertt's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## Contact
 
@@ -65,30 +67,11 @@
 
 <br><br>
 
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JRebertt&layout=wide&show_reply=off&show_retweet=off" />
-
-<!--
-
-**JRebertt/JRebertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="490em"  src="https://github-readme-twitter-gazf.vercel.app/api?id=JRebertt&layout=wide&show_reply=off&show_retweet=off" />
+</p>
 
 
-
-
-
-<!-- ### Hi there 👋 -->
 
 <!--
 **JRebertt/JRebertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
