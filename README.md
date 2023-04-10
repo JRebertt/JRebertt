@@ -39,8 +39,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JRebertt&show_icons=true&theme=vision-friendly-dark" alt="JRebertt's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRebertt&layout=compact&theme=vision-friendly-dark" alt="JRebertt's most languages"/>
+<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JRebertt&show_icons=true&theme=vision-friendly-dark" alt="JRebertt's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRebertt&layout=compact&theme=vision-friendly-dark" alt="JRebertt's most languages"/> -->
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JRebertt&theme=soft-green&locale=pt_BR)](https://git.io/streak-stats)
 </p>
 
 <br>
@@ -67,9 +69,9 @@
 
 <br><br>
 
-<p align="center">
+<!-- <p align="center">
 <img width="490em"  src="https://github-readme-twitter-gazf.vercel.app/api?id=JRebertt&layout=wide&show_reply=off&show_retweet=off" />
-</p>
+</p> -->
 
 
 
