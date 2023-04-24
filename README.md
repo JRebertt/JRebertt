@@ -4,7 +4,7 @@
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JRebertt&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming
+- 🔥  Full Stack Developer.
 
 - 🔭 Enthusiast of the best web & mobile development technologies.
 
