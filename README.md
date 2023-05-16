@@ -59,7 +59,7 @@
 <a href="https://linkedin.com/in/JRebertt" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JRebertt-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/JRebertt" target="_blank">
+<a href="https://www.instagram.com/joaorebertt/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-JRebertt-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!-- <a href="https://youtube.com/JRebertt" target="_blank">
